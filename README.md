@@ -1,12 +1,12 @@
 # tasked (On Progress)
 
-Task is a project I made to practice Cubit BLoC state and also working with Firebase Firestore API. It is a simple note taking apps, where you can specify the notes urgency with radio button.
+Tasked is a project I made to practice Cubit BLoC state and also working with Firebase Firestore API. It is a simple note taking apps, where you can specify the task urgency with radio button.
 
 Current functions:
-  - Add notes
-  - Specify note type
+  - Add task
+  - Specify task type
   - Refresh home screen
-  - Delete notes
+  - Delete task
 
 # HOME SCREEN, BEFORE ADDING NOTE SPECIFYING FEATURE
 <img src = "https://user-images.githubusercontent.com/93133790/144784261-41eee511-6731-40b7-9398-4fbd4885d046.jpg" width = "200">
