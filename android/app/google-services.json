@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "100957655006",
+    "project_id": "tasked-63a8c",
+    "storage_bucket": "tasked-63a8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100957655006:android:6c19aaa4d09abfe07d574f",
+        "android_client_info": {
+          "package_name": "com.tridi.tasked"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100957655006-kb15r9f895bqfktmhenio4577ovjb0qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJumSHVPp_Brw3TeugjkauwwOxBLvvHl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100957655006-kb15r9f895bqfktmhenio4577ovjb0qu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
